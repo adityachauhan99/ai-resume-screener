@@ -30,6 +30,11 @@ An AI-powered web app that reads resumes (PDFs), compares them to a job descript
 
 ---
 
+## Live Demo
+[Live Demo](https://adityachauhan99-ai-resume-screener.streamlit.app/)
+
+---
+
 ## 🚀 How to Run
 
 ```bash
