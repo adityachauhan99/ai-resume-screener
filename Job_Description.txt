@@ -1,0 +1,40 @@
+Job Title: Data Analyst – Entry Level
+Company: InsightGen Technologies
+Location: Remote / Hybrid (Bangalore, India)
+
+Job Description:
+We are looking for a passionate and detail-oriented Data Analyst to join our growing analytics team. You will be responsible for gathering, cleaning, analyzing, and visualizing data to help inform business decisions.
+
+Responsibilities:
+Collect and analyze large datasets from various sources (Excel, SQL, APIs)
+
+Clean and preprocess data for accuracy and consistency
+
+Build dashboards and visual reports using tools like Power BI, Tableau, or Excel
+
+Present actionable insights to stakeholders
+
+Work closely with product, marketing, and engineering teams
+
+Required Skills:
+Proficiency in Python (pandas, NumPy, matplotlib/seaborn)
+
+Knowledge of SQL for data querying
+
+Strong analytical and problem-solving skills
+
+Good communication and storytelling with data
+
+Familiarity with Excel (VLOOKUP, Pivot Tables)
+
+Preferred:
+Experience with Power BI or Tableau
+
+Exposure to machine learning or predictive analytics
+
+Understanding of business KPIs and A/B testing
+
+Qualifications:
+Bachelor’s degree in Computer Science, Statistics, Mathematics, or related field
+
+0–2 years of experience in a data-related role
