@@ -13,6 +13,7 @@ An AI-powered web app that reads resumes (PDFs), compares them to a job descript
 - Show skill match count and matched keywords
 - Download results as CSV
 - Bar chart of resume scores
+- Bar chart of percentage of skills matched 
 - Extract skills from job description automatically
 
 ---
@@ -25,8 +26,14 @@ An AI-powered web app that reads resumes (PDFs), compares them to a job descript
 ### Ranked Candidate Output
 ![Ranked Results](assets/Screenshot_2.png)
 
+### Bar Chart For Match Score
+![Bar Chart 1](assets/Screenshot_3.png)
+
+### Bar Chart For Percentage Of Skills Matched
+![Bar Chart 2](assets/Screenshot_4.png)
+
 ### Downloaded CSV
-![Downloaded CSV](assets/Screenshot_3.png)
+![Downloaded CSV](assets/Screenshot_5.png)
 
 ---
 
