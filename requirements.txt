@@ -3,6 +3,5 @@ pandas
 scikit-learn
 pdfplumber
 spacy
-en_core_web_trf
 torch
 transformers
