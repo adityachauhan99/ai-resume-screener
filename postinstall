@@ -1,2 +1,2 @@
 #!/bin/bash
-python -m spacy download en_core_web_trf
+python -m spacy link en_core_web_trf en_core_web_trf
