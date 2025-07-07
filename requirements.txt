@@ -2,5 +2,4 @@ streamlit
 pandas
 scikit-learn
 pdfplumber
-spacy
-altair
+spacy[transformers]
