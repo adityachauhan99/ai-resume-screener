@@ -4,12 +4,19 @@ import pdfplumber
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import spacy
+import subprocess
 
 # Cache Spacy
+
 @st.cache_resource
 def load_spacy_model():
-    return spacy.load("en_core_web_trf")
-nlp=load_spacy_model()
+    try:
+        return spacy.load("en_core_web_trf")
+    except OSError:
+        subprocess.run(["python", "-m", "spacy", "download", "en_core_web_trf"], check=True)
+        return spacy.load("en_core_web_trf")
+
+nlp = load_spacy_model()
 
 # Extracting Text From a Pdf File
 
