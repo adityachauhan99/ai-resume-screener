@@ -14,10 +14,10 @@ An AI-powered web app that reads resumes (PDFs), compares them to a job descript
 - Compute percentage of matched skills
 - Show matched keywords and match count
 - Named Entity Recognition using spaCy:
-  - Extracts PERSON, ORG, GPE, DATE, PHONE, and EDUCATION entities
+  - Extracts PERSON, ORG, GPE and DATE entities
 - Visualize:
   - Match Score bar chart
-  - Skill match percentage chart
+  - Skill match percentage bar chart
 - Export results as downloadable CSV
 - User-friendly interface via Streamlit
 
