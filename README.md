@@ -31,14 +31,20 @@ An AI-powered web app that reads resumes (PDFs), compares them to a job descript
 ### 🔹 Ranked Candidate Output
 ![Ranked Results](assets/Screenshot_2.png)
 
+### 🔹 Named Entities In Resumes
+![NER](assets/Screenshot_3.png)
+
+### 🔹 Output Of NER
+![Output of NER](assets/Screenshot_4.png)
+
 ### 🔹 Bar Chart For Match Score
-![Bar Chart 1](assets/Screenshot_3.png)
+![Bar Chart 1](assets/Screenshot_5.png)
 
 ### 🔹 Bar Chart For Percentage Of Skills Matched
-![Bar Chart 2](assets/Screenshot_4.png)
+![Bar Chart 2](assets/Screenshot_6.png)
 
 ### 🔹 Downloaded CSV
-![Downloaded CSV](assets/Screenshot_5.png)
+![Downloaded CSV](assets/Screenshot_7.png)
 
 ---
 
